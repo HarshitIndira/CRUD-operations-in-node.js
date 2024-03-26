@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "sa",
+    "password": "123",
+    "database": "Indira",
+    "host": "HARSHITS-PC-380",
+    "dialect": "mssql",
+    "options": {
+      "trustedConnection": true
+    }
+  },
+  "test": {
+    "username": "sa",
+    "password": "123",
+    "database": "database_test",
+    "host": "localhost",
+    "dialect": "mssql",
+    "options": {
+      "trustedConnection": true
+    }
+  },
+  "production": {
+    "username": "sa",
+    "password": "123",
+    "database": "database_production",
+    "host": "localhost",
+    "dialect": "mssql",
+    "options": {
+      "trustedConnection": true
+    }
+  }
+}

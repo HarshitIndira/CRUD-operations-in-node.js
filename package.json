@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mssql": "^10.0.2",
+    "nodeman": "^1.1.2",
+    "sequelize": "^6.37.1",
+    "sequelize-cli": "^6.6.2",
+    "tedious": "^18.1.0"
+  }
+}
